@@ -1,4 +1,4 @@
-# Zwischentest-2-Train-BIF-DUA-1-WS2022-PROZD-DE_1-Volle-Punktezahl
+# Zwischentest-2-Train-BIF-DUA-1-WS2022-PROZD-DE_1
 
 Hinweis:
 
